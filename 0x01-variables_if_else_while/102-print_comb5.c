@@ -24,7 +24,7 @@ int main(void)
 
 			if (var != 98)
 			{
-				putchar(' ');
+				putchar(',');
 				putchar(' ');
 			}
 			else
